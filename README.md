@@ -1,7 +1,3 @@
 ### Hi there 👋
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/damonyoungcc/count.svg" />
-</p>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=damonyoungcc)
+[GitHub Stats Card]: https://github-readme-stats.vercel.app/api?username=damonyoungcc&count_private=true&theme=vue&show_icons=true&hide_border=true
+[GitHub Top Languages Card]: https://github-readme-stats.vercel.app/api/top-langs/?username=damonyoungcc&layout=compact&theme=vue&hide_border=true
